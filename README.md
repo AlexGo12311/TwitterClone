@@ -1,8 +1,7 @@
 <br />
 <p align="center">
- <img src="(https://github.com/user-attachments/assets/51ca9d47-30be-4c0b-94a3-e2500b965041" alt="Screenshot 1"">
-  </a>
-
+  <img src="https://github.com/user-attachments/assets/51ca9d47-30be-4c0b-94a3-e2500b965041" alt="Screenshot 1">
+  
   <h3 align="center">Twitter Clone</h3>
 
   <p align="center">Клон Twitter, созданный с использованием Golang, PostgreSQL, Redis, VueJS и Vite с поддержкой темной и светлой темы на TailwindCSS
