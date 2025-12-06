@@ -1,6 +1,8 @@
 <br />
 <p align="center">
- <img src="https://github.com/user-attachments/assets/16f238d7-b43f-4dc8-ad1f-2017b99e5e95" alt="Screenshot 1" width="400">
+ <img src="(https://github.com/user-attachments/assets/51ca9d47-30be-4c0b-94a3-e2500b965041" alt="Screenshot 1" width="400">
+
+
 
     <img src=".github/assets/Twitter-clone.png" alt="Logo">
   </a>
