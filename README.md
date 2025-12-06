@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="![324d72a4-4768-4f10-a256-16167e631da0](https://github.com/user-attachments/assets/d0a7585c-2dd2-4ec8-a0c5-eb4cc4127969)">
+ <img src="https://github.com/user-attachments/assets/16f238d7-b43f-4dc8-ad1f-2017b99e5e95" alt="Screenshot 1" width="400">
 
     <img src=".github/assets/Twitter-clone.png" alt="Logo">
   </a>
